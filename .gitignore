@@ -12,6 +12,7 @@
 *.ropeproject
 *~
 *.swp
+*.egg-info
 master/deps
 master/ebin
 doc/.build/
